@@ -4,6 +4,7 @@ Tools :
 
 - visual studio 2019
 - vs code 
+- sql server 2019
 
 Technologies:
 - dot net core 6
